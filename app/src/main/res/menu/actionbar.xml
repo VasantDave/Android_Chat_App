@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/chat"
+        android:id="@+id/chatView"
+        android:icon="@drawable/chat"
+        android:orderInCategory="100" />
+
+    <!-- action button for refresh -->
+    <item android:title="@string/profile"
+        android:id="@+id/profileView"
+        android:icon="@drawable/profile"
+        android:orderInCategory="100" />
+
+</menu>
